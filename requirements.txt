@@ -1,8 +1,0 @@
-Flask==2.0.2
-Flask-SQLAlchemy==2.5.1
-python-dotenv==0.19.1
-Pillow==8.4.0
-numpy==1.21.2
-openai==0.10.2
-Werkzeug==2.0.2
-Flask-JWT-Extended==4.3.1
